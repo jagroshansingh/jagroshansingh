@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF722&width=435&lines=I+am+the+Problem;I+am+also+the+Solution;I+am+Jagroshan)](https://git.io/typing-svg)
 ### Let's WORK the PROBLEM
-<br/>
+
 [![Jagroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagroshansingh)](https://github.com/jagroshansingh/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jagroshansingh&theme=dark)](https://git.io/streak-stats)
 
