@@ -5,7 +5,15 @@
 [![Jagroshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagroshansingh)](https://github.com/jagroshansingh/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jagroshansingh&theme=dark)](https://git.io/streak-stats)
 
-Connect with me
+Tech Stacks:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,node" />
+  </a>
+</p>
+
+Connect with me:
+<br/>
 <a href="https://www.linkedin.com/in/jagroshan-singh/"> <img width="35" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"/></a>
 <!--
 **jagroshansingh/jagroshansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
