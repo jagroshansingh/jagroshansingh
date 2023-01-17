@@ -27,7 +27,7 @@
 <h2>Tech Stacks</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,node,redux" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,redux" />
   </a>
 </p>
 
