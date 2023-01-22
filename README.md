@@ -47,8 +47,8 @@
   <td> 
   <img src="https://komarev.com/ghpvc/?username=atrisomya&color=blueviolet&style=for-the-badge">
   <p>  ◦ 💻 I am currently learning NodeJS and React Framework.</p>
-  <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React, Javascript</b> </p>
-  <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer </p>
+  <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React and Javascript.</b> </p>
+  <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p>
   <p>  ◦ 📧 Connect with me at  <a href="mailto:jagroshansingh615@gmail.com"> jagroshansingh615@gmail.com </a></p>
 <!--   <p>  ◦ 📄 Checkout my <a href="https://drive.google.com/file/d/1zNs5p_fSuewthjtj2X001pauDclCCbkI/view" > Resume</a></p> -->
 <!--   <p>  ◦ 👨‍💻 All of my projects are available at [Portfolio](https://randomfrisby.github.io/) </p>
