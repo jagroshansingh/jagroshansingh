@@ -40,12 +40,13 @@
 
 <div align="center">
  <h1>Hi There, 👋 This is Jagroshan </h1>
-<h3> A skilled professional in making... </h3>
+<!-- <h3> A skilled professional in making... </h3> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF722&width=435&lines=I+am+the+Problem;I+am+also+the+Solution" />
  </div>
 <table> 
  <tr>
   <td> 
-  <img src="https://komarev.com/ghpvc/?username=atrisomya&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=jagroshansingh&color=blueviolet&style=for-the-badge">
   <p>  ◦ 💻 I am currently learning NodeJS and React Framework.</p>
   <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React and Javascript.</b> </p>
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p>
@@ -90,9 +91,9 @@
  <p></p>
  <p></p>
  <h3> Trophies: </h3>
- <div align="center">
+<!--  <div align="center"> -->
  <img src="https://github-profile-trophy.vercel.app/?username=jagroshansingh&theme=tokyonight">
- </div>
+<!--  </div> -->
  <h3> Stats: </h3>
  <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagroshansingh&layout=compact&theme=tokyonight&langs_count=7"/>
