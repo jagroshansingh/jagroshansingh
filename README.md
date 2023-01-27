@@ -38,11 +38,14 @@
 
 
 
-<div align="center">
+<div align="center" margin="auto">
  <h1>Hi There, 👋 This is Jagroshan </h1>
-<!-- <h3> A skilled professional in making... </h3> -->
+<!-- <h3> A problem solver </h3> -->
+  </div>
+<!--   <div style={padding:"10%"}>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF722&width=435&lines=I+am+the+Problem;I+am+also+the+Solution" />
- </div>
+  </div> -->
+ 
 <table> 
  <tr>
   <td> 
