@@ -41,7 +41,9 @@
 <div align="center" margin="auto">
  <h1>Hi There, 👋 This is Jagroshan </h1>
 <!-- <h3> A problem solver </h3> -->
+  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1225+ hours of coding experience. High adaptability and hunger to learn new technologies. Aims to leverage knowledge and build user-friendly web applications.
   </div>
+  </br>
 <!--   <div style={padding:"10%"}>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF722&width=435&lines=I+am+the+Problem;I+am+also+the+Solution" />
   </div> -->
