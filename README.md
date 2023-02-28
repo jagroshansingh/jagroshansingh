@@ -80,14 +80,16 @@
  <img src="https://github-profile-trophy.vercel.app/?username=jagroshansingh&theme=tokyonight">
 <!--  </div> -->
  <h3> Stats: </h3>
- <div>
+ <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagroshansingh&layout=compact&theme=tokyonight&langs_count=7"/>
  </div>
  <p></p>
  <p></p>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jagroshansingh&show_icons=true&theme=tokyonight" width="49%">
+  <div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagroshansingh&theme=tokyonight" width="49%">
+  </div>
  </div>
  <p></p>
  <p></p>
