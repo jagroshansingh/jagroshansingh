@@ -67,10 +67,10 @@
  <h3>Languages and Tools: </h3>
   <div>
     <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,redux" />
-      </a>
-    </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,redux,html,css,js,github" />
+  </a>
+</p>
  </div>
  </div>
  <p></p>
