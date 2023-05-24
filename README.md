@@ -40,7 +40,7 @@
 
 <div align="center" margin="auto">
  <h1>Hi There, 👋 This is Jagroshan </h1>
-  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1225+ hours of coding experience. High adaptability and zeal to learn new technologies. Aims to leverage knowledge and build user-friendly web applications.
+  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1400+ hours of coding experience. High adaptability and zeal to learn new technologies. Aims to leverage knowledge and build user-friendly web applications.
   </div>
   </br> 
 <table> 
@@ -95,17 +95,3 @@
  <p></p>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jagroshansingh&hide_border=false&theme=tokyo-night">
  <p></p>
-<!--
-**jagroshansingh/jagroshansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
