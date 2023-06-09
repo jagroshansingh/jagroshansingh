@@ -1,7 +1,7 @@
 
 <div align="center" margin="auto">
  <h1>Hi There, 👋 This is Jagroshan </h1>
-  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1400+ hours of coding experience. High adaptability and zeal to learn new technologies. Aims to leverage knowledge and build user-friendly web applications.
+  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1400+ hours of coding experience. Possessing high adaptability and eagerness to learn new technologies. Aiming to leverage knowledge and build user-friendly web applications while facilitating organizational goals.
   </div>
   </br> 
 <table> 
