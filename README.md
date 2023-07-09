@@ -8,7 +8,7 @@
  <tr>
   <td> 
   <img src="https://komarev.com/ghpvc/?username=jagroshansingh&color=blueviolet&style=for-the-badge">
-  <p>  ◦ 💻 I am currently learning NodeJS and React Framework.</p>
+  <p>  ◦ 💻 I am currently learning WebScrapping and OAuth.</p>
   <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React and Javascript.</b> </p>
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p>
   <p>  ◦ 📧 Connect with me at  <a href="mailto:jagroshansingh615@gmail.com"> jagroshansingh615@gmail.com </a></p>
