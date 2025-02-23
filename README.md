@@ -1,16 +1,16 @@
 
 <div align="center" margin="auto">
  <h1>Hi There, 👋 This is Jagroshan </h1>
-  A passionate and curious web developer, skilled in MERN stack. Proficient in both front-end and back-end with 1400+ hours of coding experience. Possessing high adaptability and eagerness to learn new technologies. Aiming to leverage knowledge and build user-friendly web applications while facilitating organizational goals.
+  A passionate and curious web developer, proficient in frontend development. Possessing high adaptability and eagerness to learn new technologies. Aiming to leverage knowledge and build user-friendly web applications while facilitating organizational goals.
   </div>
   </br> 
 <table> 
  <tr>
   <td> 
   <img src="https://komarev.com/ghpvc/?username=jagroshansingh&color=blueviolet&style=for-the-badge">
-  <p>  ◦ 💻 I am currently learning NextJS and Advance React.</p>
+<!--   <p>  ◦ 💻 I am currently learning NextJS and Advance React.</p>
   <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React and Javascript.</b> </p>
-  <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p>
+  <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p> -->
   <p>  ◦ 📧 Connect with me at  <a href="mailto:jagroshansingh615@gmail.com"> jagroshansingh615@gmail.com </a></p>
  </td>
  <td> 
